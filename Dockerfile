@@ -140,6 +140,7 @@ RUN git clone https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git && \
     git clone https://github.com/rgthree/rgthree-comfy.git && \
     git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git && \
     git clone https://github.com/JPS-GER/ComfyUI_JPS-Nodes.git && \
+    git clone https://github.com/jamesWalker55/comfyui-various.git && \
     pip install soundfile rotary-embedding-torch --no-cache-dir
 
 # ============================================================================
